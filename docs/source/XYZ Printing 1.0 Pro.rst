@@ -1,4 +1,4 @@
-Ultimaker 1.0 Pro
+XYZ Printing 1.0 Pro
 =====
 
 Installation
