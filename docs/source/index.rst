@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to the 3D Printer Documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This documentation is for use with the Ultimaker 3 Extended and the XYZ Printing 1.0 Pro
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
