@@ -7,7 +7,7 @@ This documentation includes setup guides, maintenance, 3D Printing configuration
 
 Check out the :doc:`Ultimaker 3` section for further information on the Ultimaker 3 Extended.
 
-Check out the :ref:`XYZ Printing 1.0 Pro` section for further information on the XYZ Prining 1.0 Pro.
+Check out the :doc:`XYZ Printing 1.0 Pro` section for further information on the XYZ Prining 1.0 Pro.
 
 .. note::
 
