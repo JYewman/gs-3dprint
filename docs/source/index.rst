@@ -5,7 +5,7 @@ This documentation is for use with the Ultimaker 3 Extended and the XYZ Printing
 
 This documentation includes setup guides, maintenance, 3D Printing configuration guides and troubleshooting guides.
 
-Check out the :doc:`um3` section for further information on the Ultimaker 3 Extended.
+Check out the :doc:`um3e` section for further information on the Ultimaker 3 Extended.
 
 Check out the :doc:`xyzprinting` section for further information on the XYZ Prining 1.0 Pro.
 
@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
-   um3
+   um3e
    xyzprinting
