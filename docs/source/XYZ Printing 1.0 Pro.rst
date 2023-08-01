@@ -1,7 +1,5 @@
-Usage
+Ultimaker 1.0 Pro
 =====
-
-.. _installation:
 
 Installation
 ------------

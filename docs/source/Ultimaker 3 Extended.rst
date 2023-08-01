@@ -1,4 +1,4 @@
-API
+Ultimaker 3 Extended
 ===
 
 .. autosummary::
