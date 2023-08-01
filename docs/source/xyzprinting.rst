@@ -1,7 +1,7 @@
 XYZ Printing 1.0 Pro
 =====
 
-Installation
+Initial Setup
 ------------
 
 To use Lumache, first install it using pip:
