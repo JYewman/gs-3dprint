@@ -20,8 +20,8 @@ This section provides guides for setting up, using, and maintaining your Ultimak
    ultimaker/usage/index
    ultimaker/maintenance/index
    ultimaker/troubleshooting/index
-   ultimaker/how_to_guides/index
-   ultimaker/safety_and_regulations
+   ultimaker/how_to/index
+   ultimaker/safety/index
 
 .. toctree::
    :maxdepth: 2
