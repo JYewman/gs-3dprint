@@ -32,8 +32,8 @@ This section provides guides for setting up, using, and maintaining your Ultimak
    davinci/usage/index
    davinci/maintenance/index
    davinci/troubleshooting/index
-   davinci/how_to_guides/index
-   davinci/safety_and_regulations
+   davinci/how_to/index
+   davinci/safety/index
 
 .. toctree::
    :maxdepth: 2
