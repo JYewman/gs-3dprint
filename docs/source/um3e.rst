@@ -1,5 +1,5 @@
 ===============
-Ultimaker 3 Extended
+About the Ultimaker 3 Extended
 ===============
 
 The Ultimaker 3 Extended is an advanced 3D printer created by the Dutch company Ultimaker. The company, known for its high-quality, precision 3D printers, released the Ultimaker 3 Extended model in October 2016. It was designed with a focus on user accessibility, reliability, and superior quality prints. The printer stands out in the 3D printing market due to its larger-than-average build volume, dual extrusion system, network connectivity, and automatic material recognition capability, among other innovative features.
