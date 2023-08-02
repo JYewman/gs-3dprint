@@ -13,67 +13,30 @@ This section provides guides for setting up, using, and maintaining your Ultimak
 
 .. toctree::
    :maxdepth: 2
-   :caption: Getting Started 🚀
-   ultimaker/getting_started/setup_guide
-   ultimaker/getting_started/loading_filament
-   ultimaker/getting_started/software_installation
-   :caption: Usage 📝
-   ultimaker/usage/basic_operation
-   ultimaker/usage/advanced_printing
-   ultimaker/usage/wifi_ethernet
-   ultimaker/usage/dual_extrusion
-   :caption: Maintenance 🧹
-   ultimaker/maintenance/regular_maintenance
-   ultimaker/maintenance/changing_filament
-   ultimaker/maintenance/bed_leveling
-   :caption: Troubleshooting ❗
-   ultimaker/troubleshooting/common_problems
-   ultimaker/troubleshooting/advanced_troubleshooting
-   :caption: How-To Guides 👨‍🏫
-   ultimaker/how_to/multicolor_print
-   ultimaker/how_to/soluble_supports
-   ultimaker/how_to/network_printing
-   ultimaker/how_to/using_cura
-   :caption: Safety and Regulations 🚧
-   ultimaker/safety/safety_guidelines
-   ultimaker/safety/regulatory_information
-
-XYZ Printing DaVinci 1.0 Pro 🖨️
-===============================
-
-This section provides guides for setting up, using, and maintaining your XYZ Printing DaVinci 1.0 Pro.
+   :caption: Ultimaker 3 Extended 🖨️
+   
+   ultimaker/introduction
+   ultimaker/getting_started/index
+   ultimaker/usage/index
+   ultimaker/maintenance/index
+   ultimaker/troubleshooting/index
+   ultimaker/how_to_guides/index
+   ultimaker/safety_and_regulations
 
 .. toctree::
    :maxdepth: 2
-   :caption: Getting Started 🚀
-   davinci/getting_started/setup_guide
-   davinci/getting_started/loading_filament
-   davinci/getting_started/software_installation
-   :caption: Usage 📝
-   davinci/usage/basic_operation
-   davinci/usage/advanced_printing
-   davinci/usage/wifi
-   :caption: Maintenance 🧹
-   davinci/maintenance/regular_maintenance
-   davinci/maintenance/changing_filament
-   davinci/maintenance/bed_leveling
-   :caption: Troubleshooting ❗
-   davinci/troubleshooting/common_problems
-   davinci/troubleshooting/advanced_troubleshooting
-   :caption: How-To Guides 👨‍🏫
-   davinci/how_to/multicolor_print
-   davinci/how_to/soluble_supports
-   davinci/how_to/network_printing
-   davinci/how_to/using_xyzware
-   :caption: Safety and Regulations 🚧
-   davinci/safety/safety_guidelines
-   davinci/safety/regulatory_information
+   :caption: XYZ Printing DaVinci 1.0 Pro 🖨️
 
-Glossary 📚
-===========
-
-This glossary contains definitions for technical terms used in the documentation.
+   davinci/introduction
+   davinci/getting_started/index
+   davinci/usage/index
+   davinci/maintenance/index
+   davinci/troubleshooting/index
+   davinci/how_to_guides/index
+   davinci/safety_and_regulations
 
 .. toctree::
    :maxdepth: 2
+   :caption: Glossary 📚
+
    glossary
