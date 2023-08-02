@@ -33,6 +33,14 @@ Select your printer model below to navigate to the respective user guide.
          ultimaker/how_to/index
          ultimaker/safety/index
 
+      .. contents:: **Table of Contents**
+         :backlinks: top
+         :depth: 2
+
+      **Ready to get started with your Ultimaker 3 Extended?** Check out our detailed guides for setting up the printer, mastering different print settings, troubleshooting common issues, and exploring advanced 3D printing techniques.
+
+      :doc:`Let's Get Started! </ultimaker/introduction>`
+
    .. container:: col-md-6
 
       XYZ Printing DaVinci 1.0 Pro 🖨️
@@ -52,6 +60,14 @@ Select your printer model below to navigate to the respective user guide.
          davinci/how_to/index
          davinci/safety/index
 
+      .. contents:: **Table of Contents**
+         :backlinks: top
+         :depth: 2
+
+      **Ready to dive into the world of 3D printing with your DaVinci 1.0 Pro?** Explore our guides on initial setup, various printing techniques, maintenance tips, and troubleshooting assistance.
+
+      :doc:`Let's Begin Printing! </davinci/introduction>`
+
 Printer Jargon Simplified
 =========================
 Confused by the jargon? Don't worry, we've got you covered! Check out our glossary for a simple explanation of printer terminology.
@@ -61,4 +77,3 @@ Confused by the jargon? Don't worry, we've got you covered! Check out our glossa
    :caption: Glossary 📚
 
    glossary
-
