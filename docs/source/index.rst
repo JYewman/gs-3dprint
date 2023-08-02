@@ -1,16 +1,14 @@
-.. _3d-printer-doc:
+.. _knowledge-base:
 
 =======================================
-📚 3D Printer User & Maintenance Guide
+📚 3D Printing Knowledge Base
 =======================================
 
-.. rst-class:: lead
+Welcome to our comprehensive 3D printing knowledge base! 📖 Here, you will find a wealth of information to master the art of 3D printing with our Ultimaker 3 Extended and XYZ Printing DaVinci 1.0 Pro printers. Whether you're a novice or an experienced user, we are dedicated to providing you with essential resources for successful 3D printing.
 
-Welcome to the comprehensive user & maintenance guide 📖 for the Ultimaker 3 Extended and XYZ Printing DaVinci 1.0 Pro 3D printers. Whether you're a novice or an experienced user, you'll find everything you need to set up, use, maintain and troubleshoot your 3D printer.
-
-Choose Your Printer Model
+Select Your Printer Model
 =========================
-Select your printer model below to navigate to the respective user guide.
+Please select your printer model below to access detailed user guides and expert tips.
 
 .. container:: row
 
@@ -19,7 +17,7 @@ Select your printer model below to navigate to the respective user guide.
       Ultimaker 3 Extended 🖨️
       ========================
 
-      Find everything from setup guides to advanced usage tutorials for the Ultimaker 3 Extended.
+      Explore our extensive guides and resources for the Ultimaker 3 Extended, covering everything from initial setup to mastering advanced printing techniques.
 
       .. toctree::
          :maxdepth: 2
@@ -37,7 +35,7 @@ Select your printer model below to navigate to the respective user guide.
          :backlinks: top
          :depth: 2
 
-      **Ready to get started with your Ultimaker 3 Extended?** Check out our detailed guides for setting up the printer, mastering different print settings, troubleshooting common issues, and exploring advanced 3D printing techniques.
+      **Prepare to unleash your creativity with the Ultimaker 3 Extended!** Delve into our guides to create remarkable 3D prints and troubleshoot any challenges with confidence.
 
       :doc:`Let's Get Started! </ultimaker/introduction>`
 
@@ -46,7 +44,7 @@ Select your printer model below to navigate to the respective user guide.
       XYZ Printing DaVinci 1.0 Pro 🖨️
       ===============================
 
-      Access a range of user guides and tutorials for the XYZ Printing DaVinci 1.0 Pro.
+      Discover a wealth of knowledge and tips for your XYZ Printing DaVinci 1.0 Pro.
 
       .. toctree::
          :maxdepth: 2
@@ -64,13 +62,13 @@ Select your printer model below to navigate to the respective user guide.
          :backlinks: top
          :depth: 2
 
-      **Ready to dive into the world of 3D printing with your DaVinci 1.0 Pro?** Explore our guides on initial setup, various printing techniques, maintenance tips, and troubleshooting assistance.
+      **Empower your printing journey with the DaVinci 1.0 Pro!** Explore our guides to set up the printer, refine your prints, and handle any issues with expertise.
 
       :doc:`Let's Begin Printing! </davinci/introduction>`
 
 Printer Jargon Simplified
 =========================
-Confused by the jargon? Don't worry, we've got you covered! Check out our glossary for a simple explanation of printer terminology.
+Don't let the jargon confuse you! Our glossary provides clear and concise explanations of printer terminology.
 
 .. toctree::
    :maxdepth: 2
