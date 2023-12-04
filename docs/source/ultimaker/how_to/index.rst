@@ -7,3 +7,4 @@ Ultimaker How-To Guides 👨‍🏫
 
    bed_alignment
    using_cura
+   digital_factory
