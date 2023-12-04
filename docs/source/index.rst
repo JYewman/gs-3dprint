@@ -39,6 +39,7 @@ Please select your printer model below to access detailed user guides and expert
       **Prepare to unleash your creativity with the Ultimaker 3 Extended!** Delve into our guides to create remarkable 3D prints and troubleshoot any challenges with confidence.
 
       :doc:`Let's Get Started! </ultimaker/introduction>`
+      :doc:`Filement Management </ultimaker/filement_management>`
 
    .. container:: col-md-6
 
