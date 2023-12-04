@@ -6,5 +6,3 @@ Ultimaker Maintenance 🧹
    :maxdepth: 1
 
    regular_maintenance
-   changing_filament
-   bed_leveling
