@@ -25,6 +25,7 @@ Please select your printer model below to access detailed user guides and expert
    
          ultimaker/introduction
          ultimaker/getting_started/index
+         ulitmaker/filament_management
          ultimaker/usage/index
          ultimaker/maintenance/index
          ultimaker/troubleshooting/index
