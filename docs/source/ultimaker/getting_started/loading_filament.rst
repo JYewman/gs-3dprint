@@ -27,7 +27,7 @@ To load filament into the Ultimaker 3 Extended, you'll need to access the print 
 2. **Preheat the Print Core:** Choose the appropriate preheat option based on the filament you're using:
 
    - PLA: Preheat PLA (210°C for Print Core AA, 180°C for Print Core BB)
-   - ABS: Preheat ABS (250°C for Print Core AA, 230°C for Print Core BB)
+   - ABS: Preheat ABS (220°C for Print Core AA, 230°C for Print Core BB)
    - Nylon: Preheat Nylon (250°C for Print Core AA)
    - PVA: Preheat PVA (215°C for Print Core AA, 215°C for Print Core BB)
    - TPU: Preheat TPU (230°C for Print Core AA, 230°C for Print Core BB)
