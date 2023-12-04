@@ -1,5 +1,5 @@
 ===================================
-📡 Ultimaker Bed Alignment
+⬆️ Ultimaker Bed Alignment
 ===================================
 
 A step-by-step guide on bed alignment for the Ultimaker 3 Extended.
