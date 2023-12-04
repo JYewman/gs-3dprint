@@ -1,5 +1,5 @@
 =============================================
-💻 Filament Management Guide 🧵
+Filament Management Guide 🧵
 =============================================
 
 This guide offers detailed instructions on changing, removing, and loading filaments in an Ultimaker 3 Extended 3D printer.
