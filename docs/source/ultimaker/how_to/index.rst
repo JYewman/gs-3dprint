@@ -6,3 +6,4 @@ Ultimaker How-To Guides 👨‍🏫
    :maxdepth: 1
 
    bed_alignment
+   using_cura
